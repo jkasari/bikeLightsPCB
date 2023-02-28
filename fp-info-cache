@@ -1,4 +1,4 @@
-21375458549452427
+21377136164488225
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -89718,3 +89718,10 @@ mosfet_p_type_RFP30N6LE
 0
 3
 3
+solder_pads
+solder_pads_medium
+
+
+0
+0
+0
